@@ -21,4 +21,4 @@ Running this program will choose a random character from Dungeons and Dragons lo
 
 ---
 
-###Try running the program and get a hint about some of the happenings in the Forgotten Realms! 
+Try running the program and get a hint about some of the happenings in the Forgotten Realms! 
